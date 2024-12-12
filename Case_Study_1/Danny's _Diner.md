@@ -1,6 +1,6 @@
 ## **DANNY'S DINER**
 
-![](https://github.com/MertKesenci/Images/blob/fe12cdb7840c8e189be6d2fa3409a78ab9ebac68/Danny's_Diner_cover.png)
+![](https://github.com/user-attachments/assets/b0422988-178e-4989-9d07-496cc24c905c)
 
 [case_link](https://8weeksqlchallenge.com/case-study-1/)
 
