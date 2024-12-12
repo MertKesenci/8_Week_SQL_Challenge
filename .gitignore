@@ -1,0 +1,36 @@
+# Ignore system files
+.DS_Store  # macOS system files
+Thumbs.db  # Windows system files
+
+# Ignore editor-specific files
+.vscode/  # VS Code settings
+.idea/  # JetBrains IDE settings
+
+# Ignore node_modules (if using for any JavaScript-related work, e.g., documentation tools)
+node_modules/
+
+# Ignore SQL database dumps or backups (if you have them)
+*.sql  # Uncomment if you want to ignore SQL dump files
+*.bak  # Backup files
+
+# Ignore images and videos
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.svg
+*.webp
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+
+# Ignore other logs or temporary files
+*.log
+*.tmp
+
+# Ignore the environment file if using one for local configurations
+.env  # Uncomment if using .env files for credentials or settings
